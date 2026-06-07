@@ -10,6 +10,8 @@
 用 SQL 拆解一家電商三年的營收成長，回答「這是健康擴張，還是脆弱成長？」。我自建了一套權重化計分卡（Growth Quality Scorecard），對獲客、轉換、產品、回購四個構面做方向性評分後給出裁決。
 *SQL Server (T-SQL) · Excel · 高層診斷報告*
 
+[完整診斷報告 (PDF)](./project2_fuzzy_factory/Fuzzy_Factory_Growth_Diagnosis.pdf)
+
 ### [YouTube 觀看行為分析](./project1_youtube_rqi)
 從單一重度使用者的觀看資料，設計 RQI（Revenue Quality Index）量化內容的變現品質，探討短影音擴張對平台長期變現能力的潛在風險。
 *Power BI · SQL · KPI 框架設計*
