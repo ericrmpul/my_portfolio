@@ -19,4 +19,4 @@
 ## 關於我
 應用數學背景、金融碩士，曾任銀行 AML 風險分析，正轉往 Business / Product Analyst。
 
-**聯絡**：[LinkedIn](www.linkedin.com/in/chunyaowang)
+**聯絡**：[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/chunyaowang)
