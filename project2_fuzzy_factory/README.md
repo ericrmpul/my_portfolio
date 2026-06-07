@@ -18,6 +18,8 @@ Fuzzy Factory 是一家線上販售絨毛玩偶的電商，2012–2015 年間營
 這份專案的目的，是用資料給出一個明確裁決，而不是只停在「營收成長了 X%」的階段。
 
 ## 分析框架
+<img width="987" height="675" alt="image" src="https://github.com/user-attachments/assets/a0b79e52-82e4-47ef-a9bb-4aa9177271b1" />
+
 
 我把「成長品質」拆成四個構面，並依其對成長的解釋力給定權重：
 
