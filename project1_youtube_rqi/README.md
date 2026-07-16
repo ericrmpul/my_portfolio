@@ -5,7 +5,6 @@
 **分析師**：Chun Yao Wang
 **資料**：個人 YouTube 觀看紀錄（103 天、10,464 筆觀看）
 **工具**：SQL（資料清理）· Power BI（計算邏輯 + 視覺化）· KPI 框架設計
-**完整報告**：[YouTube_RQI_Analysis.pdf](./YouTube_RQI_Analysis.pdf)
  
 ---
  
